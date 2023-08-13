@@ -44,7 +44,6 @@ function App() {
   return (
     <div className="App">
       <button id="rzp-button1">Pay</button>
-
     </div>
   );
 }
